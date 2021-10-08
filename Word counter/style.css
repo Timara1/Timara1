@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-family: monospace;
+}
+
+#back{
+    background-color: rgb(94, 243, 88);
+    margin: 0px 40px;
+    border-radius: 5%;
+    box-shadow: 0px 10px 5px rgb(189, 188, 188);
+}
+
+h1{
+    text-transform: uppercase;
+  
+}
+
+#display{
+    background-color: beige;
+    padding: 10px 25px;
+    border-radius: 10%;
+}
